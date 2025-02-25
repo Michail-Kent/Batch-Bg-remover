@@ -33,6 +33,5 @@ Troubleshooting:
 - If you encounter any errors, a message box will appear with the error details.
 
 Contact:
-For any issues, please contact the author or refer to the official documentation for the Remove.bg API.
+For any issues, please contact me or refer to the official documentation for the Remove.bg API.
 
-Enjoy using the Background Remover Tool!
